@@ -8,6 +8,9 @@ Portfolio.
 
 **[View Live Preview](https://imgur.com/a/mb8dgFv)**
 
+![alt text](http://url/to/img.png)
+![Screenshot](./img/preview.jpg)
+
 ## Status
 
 -Need to Bring in Work Experience Dates closer to text body.
