@@ -4,9 +4,9 @@ Portfolio.
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://imgur.com/a/mb8dgFv)
+[![Resume Preview](https://imgur.com/a/mb8dgFv)](https://imgur.com/a/mb8dgFv)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://imgur.com/a/mb8dgFv)**
 
 ## Status
 
