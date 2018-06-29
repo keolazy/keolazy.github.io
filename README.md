@@ -8,8 +8,7 @@ Portfolio.
 
 **[View Live Preview](https://imgur.com/a/mb8dgFv)**
 
-![alt text](http://url/to/img.png)
-![Screenshot](./img/preview.jpg)
+![Preview](./img/preview.jpg)
 
 ## Status
 
