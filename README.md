@@ -3,11 +3,6 @@
 Portfolio.
 
 ## Preview
-
-[![Resume Preview](https://imgur.com/a/mb8dgFv)]
-
-**[View Live Preview](https://imgur.com/a/mb8dgFv)**
-
 ![Preview](./img/preview.jpg)
 
 ## Status
