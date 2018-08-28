@@ -59,11 +59,13 @@ h2 {
 }
 
 .list-icons {
-  font-size: 3rem;
+  font-size: 6rem;
 }
 
 .list-icons .list-inline-item i:hover {
   color: #29a3a3;
+  justify-content: center;
+  align-items: center;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
